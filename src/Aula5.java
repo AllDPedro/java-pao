@@ -52,7 +52,7 @@ public class Aula5 {
         System.out.println("Qual o seu nome?" + " " + nome +  " " + "Qual sua idade?" + " " + idade + " " +
                 "Você estuda?" + " " + estuda + " " + "Já tem algum emprego?" + " " + trabalho
                 + " " + "Tem dinheiro?" + " " + dinheiro);
-        
+
     }
 
 }
