@@ -2,7 +2,7 @@ import java.util.Random;
 
 
         // Gerador de números da mega sena.
-public class Aula10 {
+public class Aula10_megasena {
 
     public static void main(String[] args){
         // criar um numero aleatorio no windows
